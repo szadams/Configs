@@ -1,4 +1,4 @@
-#Thu Aug 15 20:17:04 CEST 2013
+#Thu Aug 15 20:49:37 CEST 2013
 /instance/org.eclipse.jdt.ui/sp_cleanup.always_use_parentheses_in_expressions=false
 /instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
 /instance/org.eclipse.jdt.ui/java_operator=240,239,208
@@ -185,7 +185,7 @@
 /instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.color=64,128,0
 /instance/org.eclipse.wst.html.ui/declBoder=\#DFBE95 | null | false | false | false | false
 /instance/org.eclipse.wst.jsdt.ui/java_single_line_comment=127,159,127
-/instance/org.eclipse.ui.editors/currentLineColor=47,47,47
+/instance/org.eclipse.ui.editors/currentLineColor=26,26,26
 /instance/org.eclipse.jdt.ui/proposalOrderMigrated=true
 /instance/com.adobe.flexide.css.core/cssTextColor=\#E2E2E2
 /instance/org.eclipse.wst.css.ui/ATTRIBUTE_NAME=\#DFBE95 | null | false | false | false | false
@@ -442,7 +442,7 @@
 /instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_parameters_in_method_declaration=16
 /instance/org.eclipse.wst.xml.ui/piBorder=\#DFBE95 | null | false | false | false | false
-/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=226,226,226
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=240,238,238
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.dtdColor=223,190,149
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.highlight.javakeywords.color=141,203,226
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.enabled=true
@@ -847,7 +847,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.enabled=true
 /instance/org.scala-ide.sdt.core/syntaxColouring.return.colour=179,0,120
 /instance/org.eclipse.wst.jsdt.ui/sp_cleanup.always_use_this_for_non_static_method_access=false
-/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground=152,152,152
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground=177,177,177
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter=true
 /instance/org.eclipse.ui.editors/occurrenceIndicationColor=97,97,97
 @org.eclipse.jdt.launching=3.6.1.v20111006_r372
@@ -877,7 +877,7 @@ file_export_version=3.0
 /instance/org.eclipse.cdt.ui/c_comment_task_tag=172,193,172
 /instance/org.eclipse.jdt.ui/sp_cleanup.make_local_variable_final=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_private_fields=true
-/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=30,30,30
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=0,0,0
 /instance/com.adobe.flexide.as.core/asTextColor=\#E2E2E2
 /instance/org.eclipse.wst.css.ui/URI=\#CC9393 | null | false | false | false | false
 @org.eclipse.pde.api.tools=1.0.301.v20111129-2053
